@@ -2,7 +2,7 @@
 //  Tic Tac Toe Two.cpp
 //  
 //
-//  Created by Jacob Clarke-McRae on 2016-04-08.
+//  Created by Jacob CM on 2016-04-08.
 //
 //
 
